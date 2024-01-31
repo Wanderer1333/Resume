@@ -3,14 +3,14 @@ body {
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
-  background: #e5e5e5;
-  font-family: "Montserrat", sans-serif;
+  background: #231d93;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .wrapper {
   display: flex;
   flex-direction: row-reverse;
-  background: #ffffff;
+  background: #b1cc00;;
   width: 1100px;
   height: 1319px;
   top: 40px;
@@ -32,26 +32,38 @@ body {
   line-height: 55px;
   margin-top: 10px;
   margin-bottom: 8px;
-  color: #2979ff;
+  color: #231d93;
+  font-family: cursive;
+  text-decoration-line: underline;
+  text-shadow: 1px 1px 2px yellow, 0 0 0.80em red , 0 0 0em beige;
 }
 
 .saidebar {
-  background: #dfeeff;
+  background:#b1cc00;
+    
 }
 
 .saidebar-content {
   padding-top: 20px;
   padding-left: 40px;
   padding-right: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: red 1px 0 10px;
+  font-family: cursive;
+  color: #231d93;
+  font-size: 15px;
 }
 
 .sadebar-title {
+  color:#231d93;;
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 27px;
   margin-bottom: 8px;
-}
+  font-family:cursive;
+  text-decoration-line: underline;
+  }
 
 .contacts-container {
   margin-bottom: 50px;
@@ -61,18 +73,19 @@ body {
 .contacts-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   margin-bottom: 8pcx;
+  
 }
 
 .contacts-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   text-decoration-line: underline;
-  color: #2979ff;
+  color:#231d93;
 }
 
 .skills-container {
@@ -82,10 +95,12 @@ body {
 .skills-item {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  color: #161d2a;
+  color: #231d93;
   list-style: disc;
+  text-decoration-line: underline;
+  
 }
 
 .skills-list {
@@ -98,17 +113,25 @@ body {
   font-size: 18px;
   line-height: 17px;
   margin-bottom: 8px;
+  color: #231d93;
+  text-shadow: red 1px 0 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: cursive;
 }
 
 .my-sumary {
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 17px;
   margin-bottom: 8px;
   margin-top: 20px;
-  margin-left: 15px;
+  text-decoration-line: underline;
   margin-right: 60px;
+  color: #231d93;
+    text-shadow: red 1px 0 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-seri;
+    font-family: cursive;
 }
 
 .main-content-title {
@@ -118,6 +141,11 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
+  color: #231d93;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
+    text-decoration-line: underline;
 }
 
 .projects-container {
@@ -127,45 +155,72 @@ body {
 .projects-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  list-style: decimal;
+color: #231d93;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: red 1px 0 10px;
+  font-family: cursive;
+   list-style: decimal;
+
 }
 
 .projects-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   text-decoration-line: underline;
-  color: #2979ff;
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: red 1px 0 10px;
+  font-family: cursive;
 }
 
 .projects-tech {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 24px;
+color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: red 1px 0 10px;
+  font-family: cursive;
+
 }
 
 .company-position {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 20px;
   margin-bottom: 12px;
+  color: #231d93;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
+    text-decoration-line: underline;
 }
 
 .company-position-accent {
-  color: #2979ff;
+ font-size: 16px;
+color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: red 1px 0 10px;
+  font-family: cursive;
 }
 
 .company-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   margin-bottom: 8px;
+  color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
+    text-decoration-line: underline;
 }
 
 .company-duties-item {
@@ -173,7 +228,10 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  list-style: disc;
+  color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
 }
 
 .company-duties-list {
@@ -191,10 +249,14 @@ body {
 .education-place {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 6px;
   line-height: 20px;
-  color: #6096ff;
   margin-bottom: 8px;
+  line-height: 24px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
 }
 
 .education-profile {
@@ -203,6 +265,11 @@ body {
   font-size: 14px;
   line-height: 17px;
   margin-bottom: 8px;
+  line-height: 24px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
 }
 
 .contacts-link {
@@ -224,7 +291,10 @@ body {
   margin-bottom: 5px;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  width: 350px;
+  font-size: 15px;
+  line-height: 24px;color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: red 1px 0 10px;
+    font-family: cursive;
+  
 }

@@ -116,10 +116,12 @@ body {
   color: #231d93;
   text-shadow: red 1px 0 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-family: cursive;
+ 
 }
 
 .my-sumary {
+  text-shadow: red 1px 0 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-seri;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -129,9 +131,8 @@ body {
   text-decoration-line: underline;
   margin-right: 60px;
   color: #231d93;
-    text-shadow: red 1px 0 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-seri;
-    font-family: cursive;
+   
+   
 }
 
 .main-content-title {

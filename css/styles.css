@@ -121,7 +121,7 @@ body {
 }
 
 .projects-container {
-  margin-bottom: 30px;
+  margin: 0 0 50px 0;
 }
 
 .projects-item {
@@ -214,9 +214,9 @@ body {
 }
 
 .my-photo {
-  margin-top: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .description {
@@ -226,5 +226,5 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  width: 350px;
+ 
 }
